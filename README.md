@@ -31,8 +31,5 @@ Built a Flask web application to deploy the trained model and enable real-time s
 🛠️ Technologies Used:
 Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost,Linear Regression,Decision Tree Regression,Random Forest Regression,Flask
 
-Built a Flask web application to deploy the trained model and enable real-time student performance prediction through a user-friendly interface.
 
-🛠️ Technologies Used
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, XGBoost, Flask
